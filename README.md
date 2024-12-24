@@ -1,6 +1,6 @@
 # Projeto Frontend
 
-![Página Inicial]()
+![Página Inicial](https://github.com/kenjiThiago/nlw3/blob/main/imagens/PaginaInicial.png)
 
 ## Tecnologias
 - Javascript
@@ -23,7 +23,7 @@ $ npm install
 2. Faça o build dos arquivos:
 
 ```sh
-$ npm run dev
+$ npm run start
 ```
 
 5. Entre no localhost:5000 para acessar o servidor frontend.
